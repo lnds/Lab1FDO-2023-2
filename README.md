@@ -64,7 +64,7 @@ app.get("/users", async (req, res) => {
   // #swagger.description = 'Endpoint para listar todos los usuarios registrados en el sistema'
 ```
 
-Haga estas modificaciones y las que corresponden en las lineas: 170, 186, 201, 217 y 235. 
+Haga estas modificaciones y las que corresponden en las lineas: 170, 186, 201, 217 y 235 del archivo `index.js`. 
 
 Debe usar los métodos `post`, `get`, `put`, `delete` según corresponda.
 
