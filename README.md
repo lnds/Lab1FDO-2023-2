@@ -2,7 +2,7 @@
 
 Haga un fork de este repositorio.
 
-En ReplIT cree un nuevo REPL a partir del repositorio creado con el fork.
+En ReplIT cree un nuevo REPL a partir del repositorio creado con el fork (use el botón `import from GitHub`).
 
 
 
