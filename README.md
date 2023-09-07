@@ -71,5 +71,14 @@ Debe usar los métodos `post`, `get`, `put`, `delete` según corresponda.
 Cuando haya realizado las modificaciones pruébelas con YARC y mande un Pull Request con su respuesta.
 
 
+# Opcional
 
+Cree otro ReplIT a partir de este repositorio: https://github.com/lnds/DemoTodoAppReactClient.
 
+Modifique el archivo `src/components/const.js` cambiando el valor de la variable `serverApiUrl` por la url del ReplIT donde está corriendo el servidor.
+
+```javascript
+const serverApiUrl = 'http://localhost:3001/' // <- modifique esta linea
+```
+
+Use esta aplicación para probar sus endpoints.
