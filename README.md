@@ -68,9 +68,14 @@ Haga estas modificaciones y las que corresponden en las lineas: 170, 186, 201, 2
 
 Debe usar los métodos `post`, `get`, `put`, `delete` según corresponda.
 
-Cuando haya realizado las modificaciones pruébelas con YARC y mande un Pull Request con su respuesta.
+Cuando haya realizado las modificaciones pruébelas con YARC, conteste las preguntas de abajo y mande un Pull Request con sus modificaciones y las respuestas a las preguntas.
 
+# Preguntas
 
+1. ¿En cuantos micro servicios podría descomponer (o agrupar) los endpoints contenidos en el archivo `index.js`?
+2. ¿Qué problema tienen los endpoints de gestión de usuarios con respecto a la forma estándar de organizar las APIs REST?
+
+   
 # Opcional
 
 Cree otro ReplIT a partir de este repositorio: https://github.com/lnds/DemoTodoAppReactClient.
