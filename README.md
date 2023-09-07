@@ -26,7 +26,8 @@ Ahora cree los siguientes SECRETS en Replit:
 Ejecute ReplIT presionando el botón `RUN`.
 
 
-Use YARC para crear un usuario
+Use [YARC](https://chrome.google.com/webstore/search/yarc) para crear un usuario.
+ (También puede usar [`curl`](https://curl.se/)  o [PostMan](https://www.postman.com/)).
 
 # Desafío
 
